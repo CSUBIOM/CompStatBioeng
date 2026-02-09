@@ -24,11 +24,8 @@ def chooseMember(students, probs):
     
     return student, index
 
-def spring2025Students():
-    return ['Becca B','Ella B','Lauren B','James B','Chayanee C','Deven D','Jackson E','Delaney E','Christian F','Lillian G','Andy G',
-            'Emma G','Nick G','Joshua H','Paycen H','Kyle H','Emma H','Elijah J','Gabriela J','Addison L',
-            'Matthew L','Hassan M','Bella P','Chris RT','Mariana S','Dylan S','Jacob S','Hayley S','Kayla T',
-            'Vivia VDM','Fig V','AbbyMae W','Alvina Y','Polina Z']
+def spring2026Students():
+    return ['Laryssa A','Becca B','Alec B.','Bryan B','Amber C','Aneece D','Jonnina E','Aimee E','Caitlyn M','Caroline P','Andy Q','Isaac R','Renzo S','Alex T','Hannah W']
 
 def geneRegulationTopics():
     return ['Signal Transduction and Cellular Signaling - Receptor-Mediated Signaling: Activation of gene expression in response to extracellular signals.',
